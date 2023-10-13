@@ -1,4 +1,4 @@
-1[logo](https://github.com/Mr-DevendraOjha/Mr-DevendraOjha/blob/main/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif)
+![logo](https://github.com/Mr-DevendraOjha/Mr-DevendraOjha/blob/main/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif)
 <h1 align="center">Hi 👋, I'm Devendra</h1>
 <h3 align="center">A passionate App and Web developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
